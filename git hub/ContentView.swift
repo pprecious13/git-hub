@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  git hub
 //
-//  Created by Hana Akoto Baffour on 14.08.23.
+//  Created by precious on 14.08.23.
 //
 
 import SwiftUI
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello,precious")
         }
         .padding()
     }
